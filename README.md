@@ -18,12 +18,14 @@ or
 $ conda config --add channels conda-forge
 $ conda install cookiecutter
 ```
+### Instructions on how to deploy the framework
 
+![Github Steps](Github_steps.png)
 
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/pawan-nandakishore/cookiecutter-ds-projects
+    cookiecutter https://github.com/pawan-nandakishore/ds_projects_framework
 
 
 
