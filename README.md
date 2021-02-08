@@ -1,4 +1,14 @@
-# Cookiecutter Data Science Projects 
+
+# Data Science projects frame work for Colaberry Data Science Program 
+
+The is framework uses cookiecutter to generate data science projects framework
+
+
+### Visual guide on how to deploy the framework
+
+![Github Steps](Github_steps.png)
+
+## Cookiecutter Data Science Projects 
 
 A project framework based on the [Cookiecutter data science](http://drivendata.github.io/cookiecutter-data-science/)
 
@@ -18,9 +28,6 @@ or
 $ conda config --add channels conda-forge
 $ conda install cookiecutter
 ```
-### Instructions on how to deploy the framework
-
-![Github Steps](Github_steps.png)
 
 ### To start a new project, run:
 ------------
