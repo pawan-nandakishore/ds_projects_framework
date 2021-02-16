@@ -92,3 +92,18 @@ The directory structure of your new project looks like this:
 
     pip install -r requirements.txt
 
+
+# Here are some Data sources
+
+
+
+There are multiple ways you can source data for the problem. 
+
+Here are some places to get data from: 
+
+- Data.world(https://data.world/)
+- Data is Plural (https://tinyletter.com/data-is-plural/archive)
+- US Government Data (https://www.data.gov/)
+- World Data AI (World Data | Predictability Models Powered by WorldData.AI)
+- UCI Datasets(https://archive.ics.uci.edu/ml/datasets.php)
+- BigML(https://bigml.com/)
